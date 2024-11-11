@@ -1,3 +1,3 @@
 # data-feed-chat
 
-Simple chat and data feed based on WebSockets written in Go
+Simple chat and data feed based on WebSockets(from standard lib) written in Go
